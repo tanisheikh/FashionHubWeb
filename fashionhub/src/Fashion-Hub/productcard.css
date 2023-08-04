@@ -1,0 +1,6 @@
+img {
+  width: 200px;
+}
+.cardRow{
+    column-gap: 20px;
+}
